@@ -1,1 +1,4 @@
-My first Ruby on Rails app.
+A quick, clean, and responsive blog site.
+
+Prototype currently online: 
+https://alpha-blog-provi.herokuapp.com/articles
